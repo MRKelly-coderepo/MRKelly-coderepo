@@ -26,6 +26,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MRKelly-coderepo&theme=dark" />
 </a>
 <br/>
-<a href="https://twitter.com/MRKelly-coderepo">
+<a href="https://www.linkedin.com/in/matt-kelly-gpen/">
   <img src="https://img.shields.io/twitter/follow/MRKelly-coderepo?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
 </a>
